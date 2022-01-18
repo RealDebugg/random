@@ -54,109 +54,109 @@
     "link": "https://www.svtplay.se/"
   },
   {
-    "img": "funimation.png",
+    "img": null,
     "boolean": true,
     "string": "Funimation",
     "link": "https://www.funimation.com"
   },
   {
-    "img": "hbomax.png",
+    "img": null,
     "boolean": true,
     "string": "HBO Max",
     "link": "https://www.hbomax.com/se/sv?offer_id=5&transaction_id=102f03f8a238a448f30c0af87fc535&affiliate_id=1019&aff_click_id=fp-st-kykjdwd6-0&utm_source=The+Streamable&utm_medium=affiliate"
   },
   {
-    "img": "peacocktv.png",
+    "img": null,
     "boolean": true,
     "string": "Peacock TV",
     "link": "https://www.peacocktv.com"
   },
   {
-    "img": "hulu.png",
+    "img": null,
     "boolean": true,
     "string": "HULU",
     "link": "https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fen.wikipedia.org%2F"
   },
   {
-    "img": "discoveryplus.png",
+    "img": null,
     "boolean": true,
     "string": "Discovery+",
     "link": "https://www.discoveryplus.com/se"
   },
   {
-    "img": "curiositystream.png",
+    "img": null,
     "boolean": true,
     "string": "Curiosity Stream",
     "link": "https://curiositystream.com/"
   },
   {
-    "img": "espn.png",
+    "img": null,
     "boolean": true,
     "string": "ESPN",
     "link": "https://plus.espn.com/"
   },
   {
-    "img": "rakuten.png",
+    "img": null,
     "boolean": true,
     "string": "Rakuten TV",
     "link": "https://www.rakuten.tv/se"
   },
   {
-    "img": "srakuten.png",
+    "img": null,
     "boolean": true,
     "string": "Rakuten Sport",
     "link": "https://sports.rakuten.com/"
   },
   {
-    "img": "amazonmusic.png",
+    "img": null,
     "boolean": true,
     "string": "Amazon Music",
     "link": "https://music.amazon.com/"
   },
   {
-    "img": "applemusic.png",
+    "img": null,
     "boolean": true,
     "string": "Apple Music",
     "link": "https://music.apple.com/us/browse"
   },
   {
-    "img": "bandcamp.png",
+    "img": null,
     "boolean": true,
     "string": "Bandcamp",
     "link": "https://bandcamp.com/"
   },
   {
-    "img": "deezer.png",
+    "img": null,
     "boolean": true,
     "string": "Deezer",
     "link": "https://www.deezer.com/us/"
   },
   {
-    "img": "soundcloud.png",
+    "img": null,
     "boolean": true,
     "string": "SoundCloud",
     "link": "https://www.pandora.com/"
   },
   {
-    "img": "tidal.png",
+    "img": null,
     "boolean": true,
     "string": "Tidal",
     "link": "https://tidal.com/"
   },
   {
-    "img": "tunein.png",
+    "img": null,
     "boolean": true,
     "string": "TuneIn",
     "link": "https://tunein.com/"
   },
   {
-    "img": "youtubemusic.png",
+    "img": null,
     "boolean": true,
     "string": "YouTube Music",
     "link": "https://music.youtube.com/"
   },
   {
-    "img": "twitter.png",
+    "img": null,
     "boolean": true,
     "string": "Twitter",
     "link": "https://twitter.com/"
