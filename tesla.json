@@ -1,0 +1,137 @@
+[
+  {
+  "img": "appletv.png",
+  "boolean": true,
+  "link": "https://tv.apple.com/?ign-itscg=10000&ign-itsct=atv-tv_op-nav_wch-ctr-210111"
+},
+  {
+    "img": "disney.png",
+    "boolean": true,
+    "link": "https://www.disneyplus.com/en-gb/login"
+  },
+  {
+    "img": "netflix.png",
+    "boolean": true,
+    "link": "https://www.netflix.com/browse"
+  },
+  {
+    "img": "paramount.png",
+    "boolean": true,
+    "link": "https://www.paramountplus.com/se/?ftag=IPP-02-10aad3c&gclid=CjwKCAiA55mPBhBOEiwANmzoQqGAyN1UntZmb5aw8tcLNUT_5Tixs_AyWeqgaVcfp4I0AdkWn5jm6RoCqdEQAvD_Bw"
+  },
+  {
+    "img": "primevideo.png",
+    "boolean": true,
+    "link": "https://www.primevideo.com/"
+  },
+  {
+    "img": "spotify.png",
+    "boolean": true,
+    "link": "https://open.spotify.com/"
+  },
+  {
+    "img": "twitch.png",
+    "boolean": true,
+    "link": "https://www.twitch.tv"
+  },
+  {
+    "img": "youtube.png",
+    "boolean": true,
+    "link": "https://www.youtube.com"
+  },
+  {
+    "img": "svtplay.png",
+    "boolean": true,
+    "link": "https://www.svtplay.se/"
+  },
+  {
+    "img": "funimation.png",
+    "boolean": true,
+    "link": "https://www.funimation.com"
+  },
+  {
+    "img": "hbomax.png",
+    "boolean": true,
+    "link": "https://www.hbomax.com/se/sv?offer_id=5&transaction_id=102f03f8a238a448f30c0af87fc535&affiliate_id=1019&aff_click_id=fp-st-kykjdwd6-0&utm_source=The+Streamable&utm_medium=affiliate"
+  },
+  {
+    "img": "peacocktv.png",
+    "boolean": true,
+    "link": "https://www.peacocktv.com"
+  },
+  {
+    "img": "hulu.png",
+    "boolean": true,
+    "link": "https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fen.wikipedia.org%2F"
+  },
+  {
+    "img": "discoveryplus.png",
+    "boolean": true,
+    "link": "https://www.discoveryplus.com/se"
+  },
+  {
+    "img": "curiositystream.png",
+    "boolean": true,
+    "link": "https://curiositystream.com/"
+  },
+  {
+    "img": "espn.png",
+    "boolean": true,
+    "link": "https://plus.espn.com/"
+  },
+  {
+    "img": "rakuten.png",
+    "boolean": true,
+    "link": "https://www.rakuten.tv/se"
+  },
+  {
+    "img": "srakuten.png",
+    "boolean": true,
+    "link": "https://sports.rakuten.com/"
+  },
+  {
+    "img": "amazonmusic.png",
+    "boolean": true,
+    "link": "https://music.amazon.com/"
+  },
+  {
+    "img": "applemusic.png",
+    "boolean": true,
+    "link": "https://music.apple.com/us/browse"
+  },
+  {
+    "img": "bandcamp.png",
+    "boolean": true,
+    "link": "https://bandcamp.com/"
+  },
+  {
+    "img": "deezer.png",
+    "boolean": true,
+    "link": "https://www.deezer.com/us/"
+  },
+  {
+    "img": "soundcloud.png",
+    "boolean": true,
+    "link": "https://www.pandora.com/"
+  },
+  {
+    "img": "tidal.png",
+    "boolean": true,
+    "link": "https://tidal.com/"
+  },
+  {
+    "img": "tunein.png",
+    "boolean": true,
+    "link": "https://tunein.com/"
+  },
+  {
+    "img": "youtubemusic.png",
+    "boolean": true,
+    "link": "https://music.youtube.com/"
+  },
+  {
+    "img": "twitter.png",
+    "boolean": true,
+    "link": "https://twitter.com/"
+  }
+]
