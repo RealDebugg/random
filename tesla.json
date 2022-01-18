@@ -2,136 +2,163 @@
   {
   "img": "appletv.png",
   "boolean": true,
+  "string": "Apple TV+",
   "link": "https://tv.apple.com/?ign-itscg=10000&ign-itsct=atv-tv_op-nav_wch-ctr-210111"
 },
   {
     "img": "disney.png",
     "boolean": true,
+    "string": "Disney+",
     "link": "https://www.disneyplus.com/en-gb/login"
   },
   {
     "img": "netflix.png",
     "boolean": true,
+    "string": "Netflix",
     "link": "https://www.netflix.com/browse"
   },
   {
     "img": "paramount.png",
     "boolean": true,
+    "string": "Paramount+",
     "link": "https://www.paramountplus.com/se/?ftag=IPP-02-10aad3c&gclid=CjwKCAiA55mPBhBOEiwANmzoQqGAyN1UntZmb5aw8tcLNUT_5Tixs_AyWeqgaVcfp4I0AdkWn5jm6RoCqdEQAvD_Bw"
   },
   {
     "img": "primevideo.png",
     "boolean": true,
+    "string": "Amazon Prime Video",
     "link": "https://www.primevideo.com/"
   },
   {
     "img": "spotify.png",
     "boolean": true,
+    "string": "Spotify",
     "link": "https://open.spotify.com/"
   },
   {
     "img": "twitch.png",
     "boolean": true,
+    "string": "Twitch",
     "link": "https://www.twitch.tv"
   },
   {
     "img": "youtube.png",
     "boolean": true,
+    "string": "YouTube",
     "link": "https://www.youtube.com"
   },
   {
     "img": "svtplay.png",
     "boolean": true,
+    "string": "SVT Play",
     "link": "https://www.svtplay.se/"
   },
   {
-    "img": null,
+    "img": "funimation.png",
     "boolean": true,
+    "string": "Funimation",
     "link": "https://www.funimation.com"
   },
   {
-    "img": null,
+    "img": "hbomax.png",
     "boolean": true,
+    "string": "HBO Max",
     "link": "https://www.hbomax.com/se/sv?offer_id=5&transaction_id=102f03f8a238a448f30c0af87fc535&affiliate_id=1019&aff_click_id=fp-st-kykjdwd6-0&utm_source=The+Streamable&utm_medium=affiliate"
   },
   {
-    "img": null,
+    "img": "peacocktv.png",
     "boolean": true,
+    "string": "Peacock TV",
     "link": "https://www.peacocktv.com"
   },
   {
-    "img": null,
+    "img": "hulu.png",
     "boolean": true,
+    "string": "HULU",
     "link": "https://www.hulu.com/welcome?orig_referrer=https%3A%2F%2Fen.wikipedia.org%2F"
   },
   {
-    "img": null,
+    "img": "discoveryplus.png",
     "boolean": true,
+    "string": "Discovery+",
     "link": "https://www.discoveryplus.com/se"
   },
   {
-    "img": null,
+    "img": "curiositystream.png",
     "boolean": true,
+    "string": "Curiosity Stream",
     "link": "https://curiositystream.com/"
   },
   {
-    "img": null,
+    "img": "espn.png",
     "boolean": true,
+    "string": "ESPN",
     "link": "https://plus.espn.com/"
   },
   {
-    "img": null,
+    "img": "rakuten.png",
     "boolean": true,
+    "string": "Rakuten TV",
     "link": "https://www.rakuten.tv/se"
   },
   {
-    "img": null,
+    "img": "srakuten.png",
     "boolean": true,
+    "string": "Rakuten Sport",
     "link": "https://sports.rakuten.com/"
   },
   {
-    "img": null,
+    "img": "amazonmusic.png",
     "boolean": true,
+    "string": "Amazon Music",
     "link": "https://music.amazon.com/"
   },
   {
-    "img": null,
+    "img": "applemusic.png",
     "boolean": true,
+    "string": "Apple Music",
     "link": "https://music.apple.com/us/browse"
   },
   {
-    "img": null,
+    "img": "bandcamp.png",
     "boolean": true,
+    "string": "Bandcamp",
     "link": "https://bandcamp.com/"
   },
   {
-    "img": null,
+    "img": "deezer.png",
     "boolean": true,
+    "string": "Deezer",
     "link": "https://www.deezer.com/us/"
   },
   {
-    "img": null,
+    "img": "soundcloud.png",
     "boolean": true,
+    "string": "SoundCloud",
     "link": "https://www.pandora.com/"
   },
   {
-    "img": null,
+    "img": "tidal.png",
     "boolean": true,
+    "string": "Tidal",
     "link": "https://tidal.com/"
   },
   {
-    "img": null,
+    "img": "tunein.png",
     "boolean": true,
+    "string": "TuneIn",
     "link": "https://tunein.com/"
   },
   {
-    "img": null,
+    "img": "youtubemusic.png",
     "boolean": true,
+    "string": "YouTube Music",
     "link": "https://music.youtube.com/"
   },
   {
-    "img": null,
+    "img": "twitter.png",
     "boolean": true,
+    "string": "Twitter",
     "link": "https://twitter.com/"
   }
 ]
